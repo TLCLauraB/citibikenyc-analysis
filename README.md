@@ -2,7 +2,7 @@
 
 CitiBikeNYC Through the Pandemic: Looking at August 2019, 2020 & 2021<br/>
 Presented by Laura Bishop (TLCLauraB)<br/>
-Tableau-Public Link: [Module 18: Citi Bike Data Analysis](https://public.tableau.com/views/Module18CitiBikeDataAnalysis/StoryMod19CitiBikeNYCAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)<br/>
+Tableau-Public Link: [Module 18: Citi Bike Data Analysis](https://public.tableau.com/views/Module18_CitiBikeDataAnalysis-Final/StoryMod19CitiBikeNYCAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link)<br/>
 
 # Introduction:
 
