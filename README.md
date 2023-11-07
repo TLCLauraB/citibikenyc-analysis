@@ -10,7 +10,7 @@ Tableau-Public Link: [Module 18: Citi Bike Data Analysis](https://public.tableau
 
 In August of 2019, little did we know that a global health crisis was only eight months away, poised to alter the course of our lives in profound ways. Our daily routines, from commuting to work to enjoying leisurely bike rides, were soon to be dramatically affected. The world was on the brink of an unforeseen challenge that would force us to adapt, innovate, and come together as a global community in the face of the COVID-19 pandemic, forever changing how we live and interact with our surroundings.
 
-Using the datasets provided by [CitiBikeNYC](https://citibikenyc.com/homepage), I analyzed data from August of 2019, 2020 and 2021. I set out to address several questions:
+Using the information provided by [CitiBikeNYC](https://citibikenyc.com/homepage), I analyzed data from August of 2019, 2020 and 2021. I set out to address several questions:
 
   * How many trips were recorded in Aug 2019, Aug 2020 and Aug 2021?
   * By what percentage did ridership grow (if at all) from Aug 2019 to Aug 2020 to Aug 2021?
